@@ -72,7 +72,7 @@ const Contact = ({ darkMode }) => {
               expecting a reply.
             </p>
 
-            <div>
+            <div className="contact-text">
               <p>
                 Abhishek Kumar,<br></br>Poonam Bhawan Subhash Nagar, <br></br>
                 Near Gali 10A Dehri On Sone, <br></br>Rohtas Bihar 821305,
